@@ -1,0 +1,11 @@
+# Ignore extension build artefacts
+*.xpi
+*.zip
+
+# Node modules (if used)
+node_modules/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
